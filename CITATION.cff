@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "UISP: Uncertainty-Driven Input-Adaptive Structured Pruning (boundary-diagnostic study)"
+authors:
+  - family-names: "Liu"
+    given-names: "Jiadong"
+    orcid: "https://orcid.org/0009-0008-5992-2065"
+type: software
+license: MIT
+repository-code: "https://github.com/Greeting233/uisp-adaptive-pruning"
