@@ -1,0 +1,6 @@
+# UISP — runtime dependencies (Python 3.9+)
+# Versions are intentionally unpinned: pin these to the exact versions you trained/measured
+# with before a formal re-release. Imports are taken from the actual scripts.
+numpy
+torch
+torchvision
